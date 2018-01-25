@@ -19,16 +19,16 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-      id="cordova-plugin-wallpaper"
+      id="cordova-plugin-lockscreenwallpaper"
       version="0.1.0">
-    <name>Set Wallpaper</name>
-    <description>Cordova Set Wallpaper Plugin</description>
+    <name>Set LockScreenWallpaper</name>
+    <description>Cordova Set LockScreenWallpaper Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,wallpaper</keywords>
-    <repo>https://github.com/fbsanches/cordova-plugin-wallpaper</repo>
+    <repo>https://github.com/duongbi/cordova-plugin-lockscreenwallpaper/tree/master/cordova-plugin-lockscreenwallpaper</repo>
     <issue></issue>
 
-    <js-module src="www/wallpaper.js" name="wallpaper">
+    <js-module src="www/wallpaper.js" name="lockscreenwallpaper">
         <clobbers target="wallpaper" />
     </js-module>
     
@@ -36,7 +36,7 @@
     <platform name = "android">
         <config-file target = "res/xml/config.xml" parent = "/*">
             <feature name = "wallpaper" >
-                <param name = "android-package" value = "fc.fcstudio.wallpaper"/>
+                <param name = "android-package" value = "fc.fcstudio.lockscreenwallpaper"/>
             </feature>
         </config-file>
         <config-file target = "AndroidManifest.xml" parent="/*">
