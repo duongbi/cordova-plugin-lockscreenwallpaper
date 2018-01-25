@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-wallpaper@0.1.1",
+        "scope": null,
+        "escapedName": "cordova-plugin-wallpaper",
+        "name": "cordova-plugin-wallpaper",
+        "rawSpec": "0.1.1",
+        "spec": "0.1.1",
+        "type": "version"
+      },
+      "E:\\TestApp\\hiphopmusic"
+    ]
+  ],
+  "_from": "cordova-plugin-wallpaper@0.1.1",
+  "_id": "cordova-plugin-wallpaper@0.1.1",
+  "_inCache": true,
+  "_location": "/cordova-plugin-wallpaper",
+  "_nodeVersion": "5.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-wallpaper-0.1.1.tgz_1470245834005_0.4374965508468449"
+  },
+  "_npmUser": {
+    "name": "fbsanches",
+    "email": "fbsanches@gmail.com"
+  },
+  "_npmVersion": "3.8.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-wallpaper@0.1.1",
+    "scope": null,
+    "escapedName": "cordova-plugin-wallpaper",
+    "name": "cordova-plugin-wallpaper",
+    "rawSpec": "0.1.1",
+    "spec": "0.1.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-wallpaper/-/cordova-plugin-wallpaper-0.1.1.tgz",
+  "_shasum": "5cef20add438eb9a6790e987cf795deaf96b9c5f",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-wallpaper@0.1.1",
+  "_where": "E:\\TestApp\\hiphopmusic",
+  "author": {
+    "name": "Fernando Arce",
+    "url": "https://github.com/fbsanches"
+  },
+  "bugs": {
+    "url": "https://github.com/fbsanches/cordova-plugin-wallpaper/issues"
+  },
+  "contributors": [
+    {
+      "name": "flyingPotat0e",
+      "url": "https://github.com/flyingPotat0e"
+    }
+  ],
+  "cordova": {
+    "id": "cordova-plugin-wallpaper",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Set Wallpaper Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5cef20add438eb9a6790e987cf795deaf96b9c5f",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-wallpaper/-/cordova-plugin-wallpaper-0.1.1.tgz"
+  },
+  "gitHead": "3e58775d6d04af2887b79a0669d3d1c5febc3a49",
+  "homepage": "https://github.com/fbsanches/cordova-plugin-wallpaper#readme",
+  "keywords": [
+    "cordova",
+    "wallpaper",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "fbsanches",
+      "email": "fbsanches@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-wallpaper",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbsanches/cordova-plugin-wallpaper.git"
+  },
+  "scripts": {},
+  "version": "0.1.1"
+}
